@@ -17,7 +17,7 @@ body {
   margin: 15px auto;
 }
 
-@media (max-width:1026px) {
+@media (max-width:440px) {
   
   .form-signin {
     width: 50%;
