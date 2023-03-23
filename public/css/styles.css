@@ -17,6 +17,14 @@ body {
   margin: 15px auto;
 }
 
+@media (max-width:1026px) {
+  
+  .form-signin {
+    width: 50%;
+  }
+}
+
+
 .form-signin .form-floating:focus-within {
   z-index: 2;
 }
